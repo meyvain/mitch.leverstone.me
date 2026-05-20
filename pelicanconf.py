@@ -27,7 +27,7 @@ CATEGORY_SAVE_AS = False
 TAG_SAVE_AS = False
 BLOGROLL = [
     ('Linkedin', 'M. Mitchell Leverstone', 'brands fa-linkedin', 'https://www.linkedin.com/in/mitch-design-research/'),
-    ('eMail', 'meyvain@gmail.con', 'solid fa-envelope', 'mailto:meyvain@gmail.com'),
+    ('eMail', 'meyvain@gmail.com', 'solid fa-envelope', 'mailto:meyvain@gmail.com'),
 ]
 
 STATIC_PATHS = ['images', 'pdfs', 'extra/CNAME']
