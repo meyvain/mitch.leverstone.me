@@ -137,7 +137,11 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 ## Website Changes
 
 ### Remove
-- [x] "New Materials?" case study *(archived 2026-05-21 → content/portfolio/_archive/)*
+- [x] "New Materials?" case study *(archived 2026-05-21 → _portfolio_archive/ at repo root)*
+
+### Completed
+- [x] Fix email spelling mistake in contact section *(done 2026-05-20)*
+- [x] Update CV PDF to current date version *(done 2026-05-20)*
 
 ### Add / Update
 - [ ] Homepage through-line statement
