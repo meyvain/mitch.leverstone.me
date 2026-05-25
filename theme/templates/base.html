@@ -1,40 +1,37 @@
-<!DOCTYPE HTML>
-<!--
-	Editorial by HTML5 UP
-	html5up.net | @ajlkn
-	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
--->
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
     {% include 'includes/head.html' %}
 </head>
-<body class="is-preload">
+<body>
 
-    <!-- Wrapper -->
-    <div id="wrapper">
+{% block nav %}
+<nav>
+  <a href="{{ SITEURL }}/" class="nav-logo">{{ SITENAME }}</a>
+  <div class="nav-center">
+    <span>Design Research</span>
+    <span class="dot">·</span>
+    <span>Strategy</span>
+    <span class="dot">·</span>
+    <span>Service Design</span>
+  </div>
+  <ul class="nav-right">
+    <li><a href="{{ SITEURL }}/#work">Work</a></li>
+    <li><a href="{{ SITEURL }}/#about">About</a></li>
+    <li><a href="{{ SITEURL }}/#contact">Contact</a></li>
+    <li><a href="{{ SITEURL }}/pdfs/Mitch Leverstone Design Researcher CV.pdf">CV ↗</a></li>
+  </ul>
+</nav>
+{% endblock %}
 
-				<!-- Main -->
-        <div id="main">
-						<div class="inner">
+{% block main %}{% endblock %}
 
-            {% include 'includes/header.html' %}
-
-            {% block main %}
-            {% endblock %}
-
-            {#% include 'includes/sidebar.html' %#}
-            {% include 'includes/footer.html' %}
-
-            </div>
-        </div>
-    </div>
-
-		<!-- Scripts -->
-    <script src="{{ SITEURL }}/theme/js/jquery.min.js"></script>
-    <script src="{{ SITEURL }}/theme/js/browser.min.js"></script>
-    <script src="{{ SITEURL }}/theme/js/breakpoints.min.js"></script>
-    <script src="{{ SITEURL }}/theme/js/util.js"></script>
-    <script src="{{ SITEURL }}/theme/js/main.js"></script>
+{% block footer %}
+<footer>
+  <p>© 2026 {{ SITENAME }}</p>
+  <p>Design Research &amp; Strategy</p>
+</footer>
+{% endblock %}
 
 </body>
 </html>

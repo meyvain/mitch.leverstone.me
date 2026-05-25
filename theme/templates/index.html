@@ -2,8 +2,235 @@
 
 {% block main %}
 
-{% include 'includes/banner.html' %}
-{% include 'includes/portfolio.html' %}
-{% include 'includes/contact.html' %}
+<!-- ─── HERO ─── -->
+<section class="hero">
+
+  <div class="hero-pill">
+    <span class="hero-pill-dot"></span>
+    Currently based in London · Open to new opportunities
+  </div>
+
+  <div class="hero-main">
+    <div class="hero-content">
+      <div class="hero-eyebrow">
+        <div class="hero-eyebrow-line"></div>
+        <span>Design Research &amp; Strategy</span>
+      </div>
+
+      <h1>Design<br>research<br>for <em>complex</em><br>problems.</h1>
+
+      <p class="hero-tagline">Research lead specialising in healthcare, pharma, and medtech — bridging the clinical floor and the development team through rigorous, human-centred research.</p>
+
+      <p class="hero-bio">I translate the unfiltered reality of the user into strategic product direction. I lead complex, months-long research programmes in high-ambiguity environments — lead stakeholder engagement and embed my findings with actionable business strategy.</p>
+
+      <div class="hero-actions">
+        <a href="#work" class="btn btn-primary">View Work</a>
+        <a href="{{ SITEURL }}/pdfs/Mitch Leverstone Design Researcher CV.pdf" class="btn btn-outline">Download CV ↗</a>
+      </div>
+    </div>
+
+    <div class="hero-portrait-wrap">
+      <img class="hero-portrait" src="{{ SITEURL }}/images/avatar.jpg" alt="M. Mitchell Leverstone" />
+      <div class="portrait-badge">
+        <div class="portrait-badge-dot"></div>
+        <p>Research lead · Healthcare, Pharma &amp; Medtech</p>
+      </div>
+    </div>
+  </div>
+
+  <div class="hero-info-grid">
+    <div class="hero-info-cell">
+      <p class="hero-info-label">Specialisation</p>
+      <p class="hero-info-value">Healthcare · Pharma · Medtech</p>
+    </div>
+    <div class="hero-info-cell">
+      <p class="hero-info-label">Base</p>
+      <p class="hero-info-value">London, UK</p>
+    </div>
+    <div class="hero-info-cell">
+      <p class="hero-info-label">Methods</p>
+      <p class="hero-info-value">Qual + Quant · Ethnography · Strategy · Service Design · Global Surveys</p>
+    </div>
+    <div class="hero-info-cell">
+      <p class="hero-info-label">The mission</p>
+      <p class="hero-info-value">Bridging the gap between the user's reality and the development team — insights that are viable &amp; actionable, not shelved.</p>
+    </div>
+  </div>
+
+</section>
+
+<!-- ─── WORK ─── -->
+<section id="work" class="work">
+  <div class="section-header">
+    <h2 class="section-title">Recent Work</h2>
+    <span class="section-sub">A selection of case studies from the field</span>
+  </div>
+
+  <div class="photo-mosaic">
+
+    <a href="{{ SITEURL }}/beyond-the-clients-assumptions.html" class="pm-card pm-1 large">
+      <img src="{{ SITEURL }}/images/fulls/Case 1 - OBS France blured.webp" alt="Fieldwork observation, France 2022" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Ethnography · France, 2022</span>
+        <h3>Beyond the Client's Assumptions</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/beyond-the-clients-assumptions.html" class="pm-card pm-2">
+      <img src="{{ SITEURL }}/images/fulls/Case 1 - big screen share out.avif" alt="Share-out presentation" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Client readout</span>
+        <h3>Findings Presentation</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/beyond-the-clients-assumptions.html" class="pm-card pm-3">
+      <img src="{{ SITEURL }}/images/fulls/Case 1 - lung vs liver.webp" alt="Clinical imaging comparison" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Clinical Imaging</span>
+        <h3>The Navigation Challenge</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/extension-of-the-surgeons-body-in-minimal-invasive-surgery.html" class="pm-card pm-4 large">
+      <img src="{{ SITEURL }}/images/fulls/davinci_surgery_fieldwork.jpg" alt="Da Vinci robotic surgery fieldwork" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Robotic Surgery · UCL Thesis</span>
+        <h3>Extension of the Surgeon's Body in Minimal-Invasive Surgery</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/pivot-is-not-only-a-table.html" class="pm-card pm-5">
+      <img src="{{ SITEURL }}/images/fulls/Case 2 - OBS.webp" alt="Case 2 observation" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Observation · Discovery</span>
+        <h3>Pivot Is Not Only a Table</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/beyond-the-clients-assumptions.html" class="pm-card pm-6">
+      <img src="{{ SITEURL }}/images/fulls/Case 1 - Workflow map.webp" alt="Workflow map deliverable" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Deliverable · BioDesign</span>
+        <h3>Clinical Workflow Map</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/pivot-is-not-only-a-table.html" class="pm-card pm-7">
+      <img src="{{ SITEURL }}/images/fulls/Case 2 - workshop.webp" alt="Case 2 workshop" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Co-creation · Workshop</span>
+        <h3>Needs Prioritisation Workshop</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/escape-room-design.html" class="pm-card pm-8 large">
+      <img src="{{ SITEURL }}/images/fulls/escape_room_sunset.jpg" alt="Escape room design" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">Experience Design · Side Project</span>
+        <h3>Escape Room Design</h3>
+      </div>
+    </a>
+
+    <a href="{{ SITEURL }}/pivot-is-not-only-a-table.html" class="pm-card pm-9">
+      <img src="{{ SITEURL }}/images/fulls/Case 2 - IDI show case.webp" alt="IDI research" />
+      <div class="pm-card-overlay">
+        <span class="pm-tag">In-depth Interviews</span>
+        <h3>User Needs Discovery</h3>
+      </div>
+    </a>
+
+  </div>
+
+  <div class="cs-row">
+    <a href="{{ SITEURL }}/beyond-the-clients-assumptions.html" class="cs-card">
+      <span class="cs-card-num">01 — Ethnography · Multi-country</span>
+      <h3>Beyond the Client's Assumptions</h3>
+      <p>In-field ethnography across four countries challenging client assumptions to drive next-gen medical device/drug combination strategy.</p>
+      <span class="cs-card-link">Read case study →</span>
+    </a>
+    <a href="{{ SITEURL }}/pivot-is-not-only-a-table.html" class="cs-card">
+      <span class="cs-card-num">02 — Discovery · Co-creation</span>
+      <h3>Pivot Is Not Only a Table</h3>
+      <p>Large-scale qualitative front-end discovery on combination drug-device and home-based treatment service design.</p>
+      <span class="cs-card-link">Read case study →</span>
+    </a>
+    <a href="{{ SITEURL }}/extension-of-the-surgeons-body-in-minimal-invasive-surgery.html" class="cs-card">
+      <span class="cs-card-num">03 — Research · UCL Thesis</span>
+      <h3>Extension of the Surgeon's Body</h3>
+      <p>User-centred research exploring surgeon–robot interaction in robotic-assisted surgery. MSc in Digital Anthropology, UCL.</p>
+      <span class="cs-card-link">Read case study →</span>
+    </a>
+  </div>
+</section>
+
+<!-- ─── ABOUT ─── -->
+<section id="about" class="about">
+  <div class="about-inner">
+    <h2 class="about-title">Meet <em>Mitch</em> — research lead, ethnographer, innovation &amp; strategist.</h2>
+
+    <div class="about-bottom">
+      <div class="about-bio">
+        <p>Research lead specialising in healthcare, pharma, and medtech. I currently lead major client programmes for the world's leading pharma/medtech organisation, partnering closely with cross-functional stakeholders to deliver research that is rigorous, actionable, and immediately useful.</p>
+        <p>My work spans from observations worldwide in clinical environments, to designing and launching global surveys across multiple geographies, to leading multilingual interview programmes, synthesising diverse data streams, and translating complexity into clear strategic direction.</p>
+        <p>I don't just execute and present — I work collaboratively to shape the right questions, adapt the approach as evidence emerges, and ensure insights reach the right people at the right moment.</p>
+        <p class="personal">I'm an audiobook listener, escape room enthusiast (I've even designed a few, which were smashing if I might add), and a mother of identical twins who are the least alike you'll ever meet.</p>
+      </div>
+
+      <div class="skills-panel">
+        <p class="skills-panel-title">Skills &amp; Methods</p>
+        <div class="skill-pills">
+          <span class="skill-pill">Ethnographic Research</span>
+          <span class="skill-pill">In-Depth Interviews</span>
+          <span class="skill-pill">Global Surveys</span>
+          <span class="skill-pill">Workshop Facilitation</span>
+          <span class="skill-pill">Strategic Synthesis</span>
+          <span class="skill-pill">Co-creation</span>
+          <span class="skill-pill">Workflow Mapping</span>
+          <span class="skill-pill">Multilingual Programmes</span>
+          <span class="skill-pill">AI-assisted Analysis</span>
+          <span class="skill-pill">Qual + Quant</span>
+          <span class="skill-pill">KOL Alignment</span>
+          <span class="skill-pill">Project Management</span>
+          <span class="skill-pill">Service Design</span>
+          <span class="skill-pill">Data Synthesis</span>
+          <span class="skill-pill">Usability Testing</span>
+          <span class="skill-pill">Evaluation Research</span>
+          <span class="skill-pill">Task Analysis</span>
+          <span class="skill-pill">User Requirements</span>
+          <span class="skill-pill">Pre-formative Research</span>
+          <span class="skill-pill">Human-Centered Design</span>
+          <span class="skill-pill">BioDesign</span>
+          <span class="skill-pill">User Needs</span>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ─── CONTACT ─── -->
+<section id="contact" class="contact">
+  <div class="contact-left">
+    <h2>Let's make<br>research <em>land.</em></h2>
+    <p>I'd love to hear about your team's current challenge.</p>
+    <a href="{{ SITEURL }}/pdfs/Mitch Leverstone Design Researcher CV.pdf" class="btn btn-primary">Download CV</a>
+  </div>
+  <div>
+    <ul class="contact-links">
+      <li class="contact-link-row">
+        <span class="contact-link-label">LinkedIn</span>
+        <a href="https://www.linkedin.com/in/mitch-design-research/" target="_blank" rel="noopener">linkedin.com/in/mitch-design-research</a>
+      </li>
+      <li class="contact-link-row">
+        <span class="contact-link-label">Email</span>
+        <a href="mailto:meyvain@gmail.com">meyvain@gmail.com</a>
+      </li>
+      <li class="contact-link-row">
+        <span class="contact-link-label">Phone</span>
+        <a href="tel:+447729046656">(+44) 07729 046 656</a>
+      </li>
+    </ul>
+  </div>
+</section>
 
 {% endblock %}

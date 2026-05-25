@@ -2,6 +2,14 @@ Title: Escape Room Design
 Date: 2015-01-01 10:10
 Summary: A creative design exercise to keep me sane during the COVID 19 quarantine. From ideation to prototype and execution, I designed and built a site specific outdoors escape room experience.
 Thumbnail: images/thumbs/Thumb_escape_room_userflow.jpg
+Hero_image: images/fulls/escape_room_sunset.jpg
+Tags_display: Experience Design · Side Project
+Date_geo: London, UK · 2020
+Lede: A COVID quarantine creative sprint — designing, prototyping, and running a bespoke site-specific outdoor escape room experience for one very particular user.
+Role: Designer, Maker, Facilitator
+Timeline_display: 1 week (intensive)
+Methods_display: Design Thinking · Rapid Prototyping · User Research · Playtesting · Service Design
+Outcome: Three successful runs, zero hints needed. Smashing, if I might add.
 
 <img class="fit image" src="images/fulls/escape_room_Tom.jpg" />
 

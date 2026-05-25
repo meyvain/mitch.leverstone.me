@@ -4,9 +4,13 @@
 Showcase professional breadth, character, methods, and high-stakes project work.
 Target: 6 case studies, strong homepage through-line, CV link, updated design.
 
+## High Priority
+- [ ] Make a new profile picture
+
+---
+
 ## Homepage
-- [ ] Write one unifying through-line statement connecting all cases
-  - Draft direction: "I go where the user actually is — operating theatres, hospital wards, clinical simulations — and translate that reality into decisions."
+- [x] Write one unifying through-line statement connecting all cases *(done 2026-05-25 — live on site: "I go where the user actually is and translate that reality into decisions.")*
 - [ ] Add landing text
 - [x] Write new text for banner landing page and about section *(done 2026-05-21 — punchy 3-para version + personal line)*
 - [ ] Add CV link → https://www.canva.com/design/DAGzFgssQXk/Pa3plg17FuU0l2oOmMky7Q/edit
@@ -142,6 +146,10 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 ### Completed
 - [x] Fix email spelling mistake in contact section *(done 2026-05-20)*
 - [x] Update CV PDF to current date version *(done 2026-05-20)*
+- [x] CV PDF linked and accessible on site *(confirmed 2026-05-24)*
+
+### CV
+- [ ] Write a new CV from scratch
 
 ### Add / Update
 - [ ] Homepage through-line statement

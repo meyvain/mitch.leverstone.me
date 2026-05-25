@@ -2,6 +2,14 @@ Title: Pivot Is Not Only a Table
 Date: 2021-01-01 10:10
 Summary: Contributing and leading a large-scale qualitative front-end discovery project tasked with uncovering latent current and future user needs in the case study of combination drug-device, in light of the transition to home-based treatment service design, concluding with an opportunity-scoping co-creation workshop with actionable strategic insights.
 Thumbnail: images/thumbs/case_2_obs.webp
+Hero_image: images/fulls/Case 2 - OBS II.webp
+Tags_display: Discovery · Co-creation
+Date_geo: Multi-geography · 2021
+Lede: N=70 in-depth interviews across three therapeutic areas — a project that demanded a mid-fieldwork pivot and produced one of the team's most strategically rich outputs.
+Role: Lead Researcher (promoted mid-project)
+Timeline_display: 8 months
+Methods_display: Ethnographic Observation · In-Depth Interviews · Storyboarding · Workflow Mapping · User Needs Mapping · Co-creation Workshop
+Outcome: Delivered a clear strategic direction from a high-noise dataset, with an opportunity-scoping workshop that gave the client actionable next steps.
 
 ## The Challenge
 

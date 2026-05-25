@@ -1,13 +1,65 @@
 {% extends 'base.html' %}
 
+{% block nav %}
+<nav class="nav-article">
+  <a href="{{ SITEURL }}/" class="nav-logo">{{ SITENAME }}</a>
+  <a href="{{ SITEURL }}/" class="nav-back">← All Work</a>
+</nav>
+{% endblock %}
+
 {% block main %}
-
-<section>
-    <header class="main">
-        <h1>{{ article.title }}</h1>
-    </header>
-
-    {{ article.content }}
+<section class="article-hero">
+  <div class="article-hero-inner">
+    <div class="article-meta">
+      {% if article.tags_display %}<span class="article-tag">{{ article.tags_display }}</span>{% endif %}
+      {% if article.date_geo %}<span style="color:var(--border);">|</span><span class="article-date">{{ article.date_geo }}</span>{% endif %}
+    </div>
+    <h1>{{ article.title }}</h1>
+    {% if article.lede %}
+    <p class="article-lede">{{ article.lede }}</p>
+    {% else %}
+    <p class="article-lede">{{ article.summary }}</p>
+    {% endif %}
+  </div>
+  {% if article.hero_image %}
+  <img class="article-hero-img" src="{{ SITEURL }}/{{ article.hero_image }}" alt="{{ article.title }}" />
+  {% endif %}
 </section>
 
+<div class="content-wrap">
+  <aside class="sidebar">
+    {% if article.role %}
+    <div class="sidebar-section">
+      <p class="sidebar-label">Role</p>
+      <p class="sidebar-value">{{ article.role }}</p>
+    </div>
+    {% endif %}
+    {% if article.timeline_display %}
+    <div class="sidebar-section">
+      <p class="sidebar-label">Timeline</p>
+      <p class="sidebar-value">{{ article.timeline_display }}</p>
+    </div>
+    {% endif %}
+    {% if article.methods_display %}
+    <div class="sidebar-section">
+      <p class="sidebar-label">Methods</p>
+      <div class="sidebar-tags">
+        {% for method in article.methods_display.split('·') %}
+        <span class="sidebar-tag">{{ method.strip() }}</span>
+        {% endfor %}
+      </div>
+    </div>
+    {% endif %}
+    {% if article.outcome %}
+    <div class="sidebar-section">
+      <p class="sidebar-label">Outcome</p>
+      <p class="sidebar-value">{{ article.outcome }}</p>
+    </div>
+    {% endif %}
+  </aside>
+
+  <article>
+    {{ article.content }}
+  </article>
+</div>
 {% endblock %}

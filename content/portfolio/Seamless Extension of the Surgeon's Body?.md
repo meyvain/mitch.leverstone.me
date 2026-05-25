@@ -2,6 +2,14 @@ Title: Extension of the Surgeon's Body in Minimal-Invasive Surgery
 Date: 2020-01-01 10:10
 Summary: User-centred research exploring the interaction between surgeons and robots in robotic-assisted surgery, final thesis for MSc in Digital Anthropology, UCL.
 Thumbnail: images/thumbs/intuitive-da-vinci-xi-with-operating-room-staff-1060865-hi-res.jpg
+Hero_image: images/fulls/davinci_surgery_fieldwork.jpg
+Tags_display: Research · UCL Thesis
+Date_geo: Operating theatres, UK · 2020
+Lede: Ethnographic research inside the operating theatre exploring how surgeons experience the da Vinci robot — as seamless extension of the body, or external tool.
+Role: Sole Researcher (MSc Thesis)
+Timeline_display: 9 months
+Methods_display: Ethnographic Observation · In-Depth Interviews · Contextual Inquiry · Thematic Analysis · Digital Anthropology
+Outcome: Thesis awarded distinction. Research surfaced a core HRI tension with implications for robotic surgery adoption and medical device UX design.
 
 <figure>
   <img class="fit image" src="images/fulls/intuitive-da-vinci-xi-with-operating-room-staff-1060865-hi-res.jpg" />

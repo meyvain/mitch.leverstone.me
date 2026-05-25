@@ -2,6 +2,14 @@ Title: Beyond the Client's Assumptions
 Date: 2022-01-01 10:10
 Summary: Challenging client assumptions through in-field ethnography to drive next-generation medical device/drug combination strategy.
 Thumbnail: images/thumbs/big-screen-share-out.avif
+Hero_image: images/fulls/Case 1 - OBS France blured.webp
+Tags_display: Ethnography · Multi-country
+Date_geo: France, Germany, US, China · 2022
+Lede: In-field ethnography across four countries revealing the clinical reality behind a client's strategic assumptions — and reframing the entire product direction.
+Role: Lead Researcher
+Timeline_display: 6 months
+Methods_display: Ethnographic Observation · In-Depth Interviews · KOL Alignment Workshop · Workflow Mapping · BioDesign Framework
+Outcome: Reframed client strategy around a high-potential procedure previously deemed too risky, backed by direct field evidence.
 
 ## The Challenge
 
