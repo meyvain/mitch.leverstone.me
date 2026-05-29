@@ -56,7 +56,31 @@ Multi-phase research to shape a next-gen cardiac mapping system. Constraint: cli
 
 ---
 
-### 3. Mix Methods / Tools MR — J&J Global Study *(new — to be created)*
+### 2. Hazardous Materials — Service Design *(new — to be created)*
+**Status:** Strong draft written, not yet on website
+
+**What the case is about:**
+Global healthcare client, complex hazardous therapy, 6 countries, 40 interviews (pharmacists, pharmacy technicians, environmental safety). Reframed client's product question into a service system question.
+
+**Key moment to keep:**
+Participant's anonymous letter moment — reproductive health and long-term exposure concern. Reframes "safety" from compliance to human trust.
+
+**Sections to write:**
+- [ ] Role → what you did → impact (top summary)
+- [ ] The Challenge (reframing the question)
+- [ ] Approach (workflow mapping, 6 markets)
+- [ ] Key Insights (3 strategic insights)
+- [ ] The moment that stayed with me (anonymous letter)
+- [ ] Outcome
+- [ ] Abstract
+
+**Visuals needed:**
+- [ ] Workflow map image
+- [ ] Any field / workshop photos
+
+---
+
+### 3. Eight Markets, One Question — Global Mixed Methods Study *(in progress)*
 **Status:** Detailed notes and draft content ready, not yet on website
 
 **What the case is about:**
