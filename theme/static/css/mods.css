@@ -471,6 +471,16 @@ nav.nav-article {
   color: var(--accent-dark);
 }
 
+.cs-card--coming {
+  opacity: 0.45;
+  cursor: default;
+  border-style: dashed;
+}
+.cs-card--coming:hover {
+  border-color: var(--border);
+  box-shadow: none;
+}
+
 /* ─── ABOUT SECTION ─── */
 .about {
   background: var(--surface);
