@@ -40,7 +40,6 @@ Multi-phase research to shape a next-gen cardiac mapping system. Constraint: cli
 - Decide: name Boston Scientific or keep anonymised?
 
 **Sections to write:**
-- [ ] Role → what you did → impact (top summary)
 - [ ] The Challenge / Isolation Problem
 - [ ] Phase 0: OR Observation (Canada story as centrepiece)
 - [ ] Mapping the Ecosystem (N=12 interviews, workflow map)
@@ -54,30 +53,6 @@ Multi-phase research to shape a next-gen cardiac mapping system. Constraint: cli
 - [ ] Journey map / workflow map image
 - [ ] Summary cards (if available)
 - [ ] OR / ethnography photo (blurred if needed)
-
----
-
-### 2. Hazardous Materials — Service Design *(new — to be created)*
-**Status:** Strong draft written, not yet on website
-
-**What the case is about:**
-Global healthcare client, complex hazardous therapy, 6 countries, 40 interviews (pharmacists, pharmacy technicians, environmental safety). Reframed client's product question into a service system question.
-
-**Key moment to keep:**
-Participant's anonymous letter moment — reproductive health and long-term exposure concern. Reframes "safety" from compliance to human trust.
-
-**Sections to write:**
-- [ ] Role → what you did → impact (top summary)
-- [ ] The Challenge (reframing the question)
-- [ ] Approach (workflow mapping, 6 markets)
-- [ ] Key Insights (3 strategic insights)
-- [ ] The moment that stayed with me (anonymous letter)
-- [ ] Outcome
-- [ ] Abstract
-
-**Visuals needed:**
-- [ ] Workflow map image
-- [ ] Any field / workshop photos
 
 ---
 
@@ -159,7 +134,7 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 - [ ] Role → what you did → impact for all cases
 
 ### Design
-- [ ] Redesign website look and feel (Phase 4 — after content is done)
+- [x] Redesign website look and feel *(done 2026-05-25 — new soft/elegant theme live: Cormorant Garamond + Inter, photo mosaic, sidebar metadata on case studies)*
 
 ---
 
@@ -170,4 +145,4 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 | 1 | Draft all case study content | In progress |
 | 2 | Website structure changes (remove/add/CV) | Not started |
 | 3 | Gather and add visuals | Not started |
-| 4 | Redesign website design | Not started |
+| 4 | Redesign website design | ✅ Done |
