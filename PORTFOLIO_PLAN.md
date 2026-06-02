@@ -5,6 +5,7 @@ Showcase professional breadth, character, methods, and high-stakes project work.
 Target: 6 case studies, strong homepage through-line, CV link, updated design.
 
 ## High Priority
+- [x] **CV: Review new CV draft and upload to site** *(done 2026-06-02)*
 - [ ] Make a new profile picture
 
 ---
@@ -147,8 +148,10 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 - [x] Update CV PDF to current date version *(done 2026-05-20)*
 - [x] CV PDF linked and accessible on site *(confirmed 2026-05-24)*
 
-### CV
-- [ ] Write a new CV from scratch
+### CV *(HIGH PRIORITY)*
+- [x] Write a new CV from scratch
+- [x] Final review of new CV *(done 2026-06-02)*
+- [x] Upload CV to site and update link *(done 2026-06-02)*
 
 ### Add / Update
 - [ ] Homepage through-line statement
@@ -159,6 +162,7 @@ Survey scope expansion mistake — pushed quant toward qualitative nuance, data 
 
 ### Design
 - [x] Redesign website look and feel *(done 2026-05-25 — new soft/elegant theme live: Cormorant Garamond + Inter, photo mosaic, sidebar metadata on case studies)*
+- [ ] Rethink case study layout — current layout is not working, needs redesign
 
 ---
 
