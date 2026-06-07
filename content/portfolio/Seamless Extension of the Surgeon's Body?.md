@@ -31,7 +31,7 @@ In high-stakes environments like surgery, design is not a luxury; it dictates wo
 
 - Finding participants - surgeons are notoriously amongst the busiest people to track down.
 - Negotiating time constraints.
-- Limited resources - getting un-balanced data due to small sample size and lack of resources.
+- Limited resources - getting unbalanced data due to small sample size and lack of resources.
 
 
 ## Methods

@@ -1,6 +1,6 @@
 Title: Escape Room Design
 Date: 2015-01-01 10:10
-Summary: A creative design exercise to keep me sane during the COVID 19 quarantine. From ideation to prototype and execution, I designed and built a site specific outdoors escape room experience.
+Summary: A creative design exercise to keep me sane during the COVID-19 quarantine. From ideation to prototype and execution, I designed and built a site specific outdoors escape room experience.
 Thumbnail: images/thumbs/Thumb_escape_room_userflow.jpg
 Hero_image: images/fulls/escape_room_sunset.jpg
 Tags_display: Experience Design · Side Project
@@ -15,7 +15,7 @@ Outcome: Three successful runs, zero hints needed. Smashing, if I might add.
 
 # Background
 
-Due to the COVID 19 extravaganza, trapped in months of quarantine, I thought I could do with a bit of time-consuming artsy-crafty-designy project and that was a fantastic opportunity to do some design thinking exercise.
+Due to the COVID-19 extravaganza, trapped in months of quarantine, I thought I could do with a bit of time-consuming artsy-crafty-designy project and that was a fantastic opportunity to do some design thinking exercise.
 
 My partner's birthday was coming up, and going to escape rooms is a bit of a tradition of ours. This is what we like to do, and so if we cannot go for an escape room, then I thought I shall make one myself!
 
@@ -38,15 +38,15 @@ I had some general ideas I wanted to include in the whole design experience befo
 * Re-playability (I wanted to make a day out of it, so my partner and friends could play)
 * To be able to play either individually or as a group
 * Limited testing abilities
-* no need for facilitator - I aimed to optimise the clues, making sure the player's journey was as smooth as possibly - to avoid being a facilitator throughout the party.
+* no need for facilitator - I aimed to optimise the clues, making sure the player's journey was as smooth as possible - to avoid being a facilitator throughout the party.
 
 ## Ideation
 
-Creating a wireframe and journey maps to determine clues and tasks flow, to predicate possible decision-making process.
+Creating a wireframe and journey maps to determine clues and tasks flow, to predict possible decision-making processes.
 
 I made different user journeys maps to experiment with different ways to approach the clues and scenarios I designed.
 
-Each wireframe was testing different point of start - as I set up three different points of start and I could not know which clue they will pick up first.  So, methodologically, I explored each flow to see the possible courses of actions will indeed end up in the player finding the berried treasure.
+Each wireframe was testing different point of start - as I set up three different points of start and I could not know which clue they will pick up first.  So, methodologically, I explored each flow to see the possible courses of actions will indeed end up in the player finding the buried treasure.
 
 
 <img class="fit image" src="images/fulls/escape_room_userflow.jpg" />
@@ -57,14 +57,14 @@ As I couldn't test the whole experience (too site-specific), I could, however, t
 
 For instance:
 
-* Is the maps to the treasure where comprehendible?
+* Is the maps to the treasure comprehensible?
 * Is the secret codes decipherable?
 * Does the symbols make sense?
 * Are the wooden chests are easy and quick to open under time pressure?
 
 **and it helped!**
 
-I did find a couple of really (unbelievably annoying) crucial flaws I did not pick up on my self, which I modified and created a new version of
+I did find a couple of really (unbelievably annoying) crucial flaws I did not pick up on myself, which I modified and created a new version of
 after the tests were completed.
 
 
@@ -73,7 +73,7 @@ after the tests were completed.
 
 It was an amazing day! I had THE BEST time. Observing my friends and family enjoying my little design creation was such a joy I didn't even imagine.
 
-**Each clue they deciphered, each hurdle they overcame, and each checky distraction I designed which they fell for I had the proudest sensation**, knowing that the escape room experience as a whole was a success.
+**Each clue they deciphered, each hurdle they overcame, and each cheeky distraction I designed which they fell for I had the proudest sensation**, knowing that the escape room experience as a whole was a success.
 
 Well, that and the praises I got after didn't hurt either I suppose : )
 
