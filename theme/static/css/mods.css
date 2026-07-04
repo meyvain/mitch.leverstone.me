@@ -286,7 +286,7 @@ nav.nav-article {
 /* Info strip */
 .hero-info-grid {
   display: grid;
-  grid-template-columns: 1fr 110px 1.6fr 2.2fr;
+  grid-template-columns: 1fr 110px 2.2fr;
   border-top: 1px solid var(--border);
   border-bottom: 1px solid var(--border);
   margin-top: 4rem;
